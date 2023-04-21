@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_solid","order":1,"path":"objects/obj_solid/obj_solid.yy",},
   ],
 }
