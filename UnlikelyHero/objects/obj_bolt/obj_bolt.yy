@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "par_weapon",
+  "name": "obj_bolt",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Weapons",
-    "path": "folders/Objects/Weapons.yy",
+    "name": "ranged",
+    "path": "folders/Objects/Weapons/ranged.yy",
   },
   "parentObjectId": null,
   "persistent": false,
