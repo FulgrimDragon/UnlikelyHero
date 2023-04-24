@@ -19,10 +19,10 @@ else
 
 firing_delay = firing_delay - 1;
 
-if (mouse_check_button(mb_left)) 
+if (mouse_check_button(mb_left)) && (firing_delay < 0)
 {
-	recoil = 4;
-	firing_delay = 5;
+	recoil = 16;
+	firing_delay = 30;
 	with (instance_create_layer(x,y,"Bullets",obj_bolt))
 	{
 		spd = 25;
