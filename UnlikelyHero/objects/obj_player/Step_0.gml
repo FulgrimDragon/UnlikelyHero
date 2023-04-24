@@ -8,9 +8,12 @@ key_jump = keyboard_check_pressed(vk_space);
 
 #region//calc movement
 var _move = key_right - key_left;
-hsp = _move * walksp
 
-vsp += grv
+hsp = (_move * walksp) + gun_kick_x;
+gun_kick_x = 0;
+
+vsp += grv + gun_kick_y;
+gun_kick_y = 0;
 
 //jump
 if key_jump && place_meeting(x,y+1,obj_solid){

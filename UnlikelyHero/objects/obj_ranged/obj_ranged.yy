@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ranged",
-    "path": "folders/Objects/Weapons/ranged.yy",
+    "name": "Ranged",
+    "path": "folders/Objects/Weapons/Ranged.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,7 +30,10 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"recoil","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
   ],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_ranged",
+    "path": "sprites/spr_ranged/spr_ranged.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

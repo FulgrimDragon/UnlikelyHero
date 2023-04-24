@@ -2,12 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_bolt",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ranged",
-    "path": "folders/Objects/Weapons/ranged.yy",
+    "name": "Ranged",
+    "path": "folders/Objects/Weapons/Ranged.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_bolt",
+    "path": "sprites/spr_bolt/spr_bolt.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
