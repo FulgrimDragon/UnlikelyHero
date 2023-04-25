@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "screen_shake",
+  "name": "animation_end",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Game",
-    "path": "folders/Scripts/Game.yy",
+    "name": "Player",
+    "path": "folders/Scripts/Player.yy",
   },
 }
