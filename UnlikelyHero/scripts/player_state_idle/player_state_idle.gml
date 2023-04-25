@@ -8,6 +8,9 @@ function player_state_idle(){
 	vsp += grv + gun_kick_y;
 	gun_kick_y = 0;
 
+	//on floor check
+	if (place_meeting(x,y+1,obj_solid)) var _onfloor = 1; else _onfloor = 0;
+
 	//jump
 	if key_jump && place_meeting(x,y+1,obj_solid){
 		vsp = -jumpsp;
@@ -38,6 +41,33 @@ function player_state_idle(){
 	y += vsp;
 	#endregion
 	
+	#region //animation
+	var _aim = sign(mouse_x - x);
+	if (_aim != 0) image_xscale = _aim;
+
+	if(_onfloor == 0)
+	{
+		sprite_index = spr_player_jump;
+		image_speed = 0;
+		if (sign(vsp) > 0) image_index = 1; else image_index = 0;
+	}
+	else
+	{
+		can_jump = 10;
+		image_speed = 1;
+		if(hsp == 0)
+		{
+			sprite_index = spr_player;
+		}
+		else
+		{
+			sprite_index = spr_player_walk;
+			if (_aim != sign(hsp)) sprite_index = spr_player_walk;
+		}
+	}
+
+	#endregion
+	
 	#region //equip weapons
 	if (equip_melee)
 	{
@@ -55,6 +85,6 @@ function player_state_idle(){
 	#endregion
 	
 	#region //melee attack
-	if (key_attack) state = PLAYERSTATE.ATTACK;
+	if (!ranged && key_attack) state = PLAYERSTATE.ATTACK;
 	#endregion
 }

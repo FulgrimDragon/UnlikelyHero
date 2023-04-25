@@ -3,5 +3,5 @@ hsp = 0;
 vsp = 0;
 
 //start of attack
-if (sprite_index !=
+
 }
