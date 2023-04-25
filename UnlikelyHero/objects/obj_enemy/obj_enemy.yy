@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player_dead",
+  "name": "obj_enemy",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objects/Entities/Player.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Entities/Enemy.yy",
   },
   "parentObjectId": null,
   "persistent": false,
