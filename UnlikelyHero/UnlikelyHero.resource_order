@@ -5,8 +5,9 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
-    {"name":"Game","order":2,"path":"folders/Objects/Game.yy",},
+    {"name":"Entities","order":6,"path":"folders/Objects/Entities.yy",},
     {"name":"Player","order":1,"path":"folders/Objects/Entities/Player.yy",},
+    {"name":"Game","order":2,"path":"folders/Objects/Game.yy",},
     {"name":"Weapons","order":3,"path":"folders/Objects/Weapons.yy",},
     {"name":"Ranged","order":1,"path":"folders/Objects/Weapons/Ranged.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
@@ -24,7 +25,6 @@
     {"name":"Ranged","order":1,"path":"folders/Sprites/Weapons/Ranged.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Entities","order":6,"path":"folders/Objects/Entities.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bolt","order":1,"path":"objects/obj_bolt/obj_bolt.yy",},
