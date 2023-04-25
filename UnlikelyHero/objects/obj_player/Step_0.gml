@@ -4,40 +4,13 @@
 key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
 key_jump = keyboard_check_pressed(vk_space);
+key_attack = mouse_check_button_pressed(mb_left);
+equip_melee = keyboard_check_pressed(ord("1"));
+equip_ranged = keyboard_check_pressed(ord("2"));
 #endregion
 
-#region//calc movement
-var _move = key_right - key_left;
-hsp = _move * walksp
-
-vsp += grv
-
-//jump
-if key_jump && place_meeting(x,y+1,obj_solid){
-	vsp = -jumpsp;
-}
-#endregion
-
-#region //collisions
-//hrz collisions
-if (place_meeting(x+hsp,y,obj_solid))
+switch (state)
 {
-	while (!place_meeting(x+sign(hsp),y,obj_solid))
-	{
-		x += sign(hsp);
-	}
-	hsp = 0;
+	case PLAYERSTATE.IDLE: player_state_idle(); break;
+	case PLAYERSTATE.ATTACK: player_state_attack(); break;		
 }
-x += hsp;
-
-//vrt collisions
-if (place_meeting(x,y+vsp,obj_solid))
-{
-	while (!place_meeting(x,y+sign(vsp),obj_solid))
-	{
-		y += sign(vsp);
-	}
-	vsp = 0;
-}
-y += vsp;
-#endregion
