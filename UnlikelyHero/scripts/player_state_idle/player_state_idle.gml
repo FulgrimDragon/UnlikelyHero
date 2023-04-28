@@ -11,9 +11,12 @@ function player_state_idle(){
 	//on floor check
 	if (place_meeting(x,y+1,obj_solid)) var _onfloor = 1; else _onfloor = 0;
 
-	//jump
-	if key_jump && place_meeting(x,y+1,obj_solid){
-		vsp = -jumpsp;
+
+	can_jump -= 1;
+	if(can_jump > 0) && (key_jump)
+	{
+		vsp = -jumpsp;	
+		can_jump = 0;
 	}
 	#endregion
 
