@@ -26,6 +26,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Tile Sets","order":4,"path":"folders/Sprites/Tile Sets.yy",},
+    {"name":"Menu","order":5,"path":"folders/Objects/Game/Menu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bolt","order":1,"path":"objects/obj_bolt/obj_bolt.yy",},
@@ -39,9 +40,11 @@
     {"name":"obj_solid","order":1,"path":"objects/obj_solid/obj_solid.yy",},
     {"name":"spr_player_jump","order":2,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"spr_player_walk","order":3,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
+    {"name":"obj_main_menu","order":1,"path":"objects/obj_main_menu/obj_main_menu.yy",},
     {"name":"obj_cam","order":3,"path":"objects/obj_cam/obj_cam.yy",},
     {"name":"spr_bolt_temp","order":1,"path":"sprites/spr_bolt_temp/spr_bolt_temp.yy",},
     {"name":"player_state_attack","order":1,"path":"scripts/player_state_attack/player_state_attack.yy",},
     {"name":"obj_player_dead","order":1,"path":"objects/obj_player_dead/obj_player_dead.yy",},
+    {"name":"draw_set_text","order":1,"path":"scripts/draw_set_text/draw_set_text.yy",},
   ],
 }
