@@ -25,6 +25,7 @@
     {"name":"Ranged","order":1,"path":"folders/Sprites/Weapons/Ranged.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Tile Sets","order":4,"path":"folders/Sprites/Tile Sets.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bolt","order":1,"path":"objects/obj_bolt/obj_bolt.yy",},

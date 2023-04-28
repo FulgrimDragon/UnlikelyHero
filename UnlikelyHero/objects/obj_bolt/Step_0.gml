@@ -5,7 +5,7 @@ x += lengthdir_x(spd,direction);
 y += lengthdir_y(spd,direction);
 
 //bullet collision
-if (place_meeting(x,y,obj_solid)) && (image_index != 0)
+if (place_meeting(x,y,obj_solid))
 {
 	while (place_meeting(x,y,obj_solid))
 	{
@@ -13,4 +13,5 @@ if (place_meeting(x,y,obj_solid)) && (image_index != 0)
 		y -= lengthdir_y(1,direction);		
 	}
 	spd = 0;
+	mask_index = -1;
 }
