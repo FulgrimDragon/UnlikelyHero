@@ -1,8 +1,20 @@
 /// @desc gun logic
 
 //gun pos and angle
-x = obj_player.x;
-y = obj_player.y+5;
+y = obj_player.y+13;
+
+with(obj_player)
+{
+	if(image_xscale == 1)
+	{
+		other.x = x-11;	
+	} 
+	else if(image_xscale == -1)
+	{
+		other.x = x+11;	
+	}
+		
+}
 
 image_angle = point_direction(x,y,mouse_x,mouse_y)
 
