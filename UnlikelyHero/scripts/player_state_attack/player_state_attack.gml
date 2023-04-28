@@ -8,6 +8,7 @@ function player_state_attack(){
 		sprite_index = spr_player_attack;
 		image_index = 0;
 		image_speed = 1;
+		screen_shake(5,10);
 		ds_list_clear(hit_by_attack);
 	}
 	

@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bolt",
-    "path": "sprites/spr_bolt/spr_bolt.yy",
+    "name": "spr_bolt_temp",
+    "path": "sprites/spr_bolt_temp/spr_bolt_temp.yy",
   },
   "spriteMaskId": null,
   "visible": true,

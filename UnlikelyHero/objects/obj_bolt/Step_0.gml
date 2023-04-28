@@ -14,4 +14,5 @@ if (place_meeting(x,y,obj_solid))
 	}
 	spd = 0;
 	mask_index = -1;
+	screen_shake(3,10);
 }
