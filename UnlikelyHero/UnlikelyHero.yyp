@@ -89,6 +89,7 @@
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_enemy_green_static","path":"sprites/spr_enemy_green_static/spr_enemy_green_static.yy",},},
+    {"id":{"name":"player_dmg","path":"scripts/player_dmg/player_dmg.yy",},},
     {"id":{"name":"obj_main_menu","path":"objects/obj_main_menu/obj_main_menu.yy",},},
     {"id":{"name":"obj_cam","path":"objects/obj_cam/obj_cam.yy",},},
     {"id":{"name":"spr_bolt","path":"sprites/spr_bolt/spr_bolt.yy",},},

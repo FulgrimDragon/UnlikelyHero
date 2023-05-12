@@ -3,3 +3,5 @@
 #macro RES_H 540
 display_set_gui_size(RES_W,RES_H);
 
+//globals
+global.player_health = 6;
