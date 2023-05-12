@@ -1,9 +1,11 @@
 /// @desc enemy init
+/*
 if (shoots)
 {
-	/*
+	
 	///////////////////////////////////////
 	PUT CODE FOR ASSIGNING WEAPON WHEN HERE
 	///////////////////////////////////////
-	*/
+	
 }
+*/

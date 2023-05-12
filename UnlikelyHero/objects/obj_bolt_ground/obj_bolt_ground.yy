@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bolt",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_bolt_ground",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -31,9 +29,6 @@
     "name": "spr_bolt",
     "path": "sprites/spr_bolt/spr_bolt.yy",
   },
-  "spriteMaskId": {
-    "name": "spr_bolt",
-    "path": "sprites/spr_bolt/spr_bolt.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

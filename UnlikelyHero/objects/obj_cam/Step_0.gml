@@ -1,17 +1,8 @@
 /// @desc cam update
 
 //update pos
-if (instance_exists(follow))
-{
-	x_to = follow.x;
-	y_to = follow.y;
-	
-	if ((follow).object_index == obj_player_dead)
-	{
-		x = x_to;
-		y = y_to;
-	}
-}
+x_to = follow.x;	
+y_to = follow.y;	
 
 //update obj pos
 x += (x_to - x) / 25;

@@ -4,7 +4,7 @@
   "name": "spr_player_attackHB",
   "bbox_bottom": 59,
   "bbox_left": 53,
-  "bbox_right": 138,
+  "bbox_right": 139,
   "bbox_top": 6,
   "bboxMode": 0,
   "collisionKind": 4,

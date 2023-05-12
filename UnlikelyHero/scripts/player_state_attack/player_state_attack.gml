@@ -28,7 +28,7 @@ function player_state_attack(){
 				ds_list_add(hit_by_attack,hitID);	
 				with (hitID)
 				{
-					//CALL ENEMY DAMANGE SCRIPT HERE!!!!				
+					enemy_dmg(2);				
 				}
 			}
 		}
