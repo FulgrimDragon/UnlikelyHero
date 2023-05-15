@@ -1,5 +1,4 @@
 ///@desc restart
-if (global.player_health <= 0){
-	global.player_health = 6;
+if (player_health <= 0){	
 	slide_transition(TRANS_MODE.GOTO,room);	
 }
