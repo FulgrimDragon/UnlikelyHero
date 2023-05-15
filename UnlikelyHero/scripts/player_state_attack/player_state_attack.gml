@@ -9,6 +9,7 @@ function player_state_attack(){
 		image_index = 0;
 		image_speed = 1;
 		screen_shake(5,10);
+		audio_play_sound(choose(snd_player_attack1,snd_player_attack2,snd_player_attack3),8,false);
 		ds_list_clear(hit_by_attack);
 	}
 	
