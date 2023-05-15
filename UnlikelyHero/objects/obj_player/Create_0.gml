@@ -9,6 +9,7 @@ gun_kick_x = 0;
 gun_kick_y = 0;
 ranged = false;
 player_flash = 0;
+player_health = 6;
 
 state = PLAYERSTATE.IDLE;
 hit_by_attack = ds_list_create();

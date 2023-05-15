@@ -1,6 +1,8 @@
 /// @desc enemy logic
 
+//hsp = sign(direction)*walksp;
 vsp += grv;
+
 
 //on floor check
 if (place_meeting(x,y+1,obj_solid)) var _onfloor = true; else _onfloor = false;
@@ -53,7 +55,7 @@ else
 	{	
 		sprite_index = sprite_run;
 	}
-	}
+}
 if (hsp != 0) image_xscale = sign(hsp) * size;
 image_yscale = size;
 #endregion
