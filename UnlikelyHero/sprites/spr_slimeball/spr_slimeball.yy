@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_slimeball",
   "bbox_bottom": 47,
-  "bbox_left": 20,
+  "bbox_left": 6,
   "bbox_right": 48,
   "bbox_top": 19,
   "bboxMode": 0,

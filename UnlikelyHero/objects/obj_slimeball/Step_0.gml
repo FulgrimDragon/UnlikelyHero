@@ -1,3 +1,6 @@
+//gravity
+x += grv;
+
 //bullet collision
 if (place_meeting(x,y,obj_solid))
 {
@@ -18,3 +21,4 @@ if (place_meeting(x,y,obj_player))
 	}
 	instance_destroy();
 }
+

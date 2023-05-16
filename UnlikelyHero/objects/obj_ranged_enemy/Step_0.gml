@@ -62,17 +62,23 @@ image_yscale = size;
 #region shooting
 if (shoots) 
 {
-	firing_delay = firing_delay - 1;
-
-	if(firing_delay < 0)
+	if (instance_exists(obj_player))
 	{
-		firing_delay = 120;
-		with (instance_create_layer(x,y,"Bullets",obj_slimeball))
+		if (countdown <= 0)
 		{
-			spd = 20;
-			direction = other.image_angle + random_range(-5,5);
-			image_angle = direction;
-		}
-	}	
+			countdown = countdown_rate;	
+			if (!collision_line(x,y,obj_player.x,obj_player.y,obj_solid,false,false))
+			{
+				with (instance_create_layer(x,y,"Bullets",obj_slimeball))
+				{
+					spd = 10;
+					direction = other.image_angle + random_range(-5,5);
+					image_angle = direction;
+					image_xscale = abs(other.image_xscale);
+					image_yscale = abs(other.image_yscale);
+				}
+			}
+		}			
+	}
 }
 #endregion

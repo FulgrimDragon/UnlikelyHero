@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_enemy_green",
-  "bbox_bottom": 31,
+  "bbox_bottom": 28,
   "bbox_left": 7,
   "bbox_right": 24,
   "bbox_top": 7,
