@@ -1,6 +1,5 @@
 /// @desc enemy logic
 
-//hsp = sign(direction)*walksp;
 vsp += grv;
 
 

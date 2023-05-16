@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bolt_ground",
-  "eventList": [],
+  "name": "obj_slimeball",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objects/Entities/Weapons/Player.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Entities/Weapons/Enemy.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bolt",
-    "path": "sprites/spr_bolt/spr_bolt.yy",
+    "name": "spr_slimeball",
+    "path": "sprites/spr_slimeball/spr_slimeball.yy",
   },
   "spriteMaskId": null,
   "visible": true,

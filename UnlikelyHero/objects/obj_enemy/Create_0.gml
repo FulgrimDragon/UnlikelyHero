@@ -1,11 +1,9 @@
-/// @desc enemy init
-/*
+/// @desc shooting
 if (shoots)
 {
-	
-	///////////////////////////////////////
-	PUT CODE FOR ASSIGNING WEAPON WHEN HERE
-	///////////////////////////////////////
-	
+	my_gun = instance_create_layer(x,y,"Ranged",obj_enemy_shooter)
+	with (my_gun)
+	{
+		owner = other.id	
+	}
 }
-*/
