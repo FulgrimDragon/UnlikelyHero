@@ -64,5 +64,6 @@
     {"name":"snd_player_attack1","order":2,"path":"sounds/snd_player_attack1/snd_player_attack1.yy",},
     {"name":"snd_player_attack2","order":3,"path":"sounds/snd_player_attack2/snd_player_attack2.yy",},
     {"name":"draw_set_text","order":1,"path":"scripts/draw_set_text/draw_set_text.yy",},
+    {"name":"obj_big_enemy","order":2,"path":"objects/obj_big_enemy/obj_big_enemy.yy",},
   ],
 }

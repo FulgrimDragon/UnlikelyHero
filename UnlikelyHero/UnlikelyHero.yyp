@@ -45,7 +45,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"IncludedFile1","CopyToMask":-1,"filePath":"","parent":{"name":"Enemy","path":"folders/Objects/Entities/Enemy.yy",},},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -103,6 +105,7 @@
     {"id":{"name":"snd_player_attack2","path":"sounds/snd_player_attack2/snd_player_attack2.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"draw_set_text","path":"scripts/draw_set_text/draw_set_text.yy",},},
+    {"id":{"name":"obj_big_enemy","path":"objects/obj_big_enemy/obj_big_enemy.yy",},},
     {"id":{"name":"rm_dev","path":"rooms/rm_dev/rm_dev.yy",},},
   ],
   "RoomOrderNodes": [
