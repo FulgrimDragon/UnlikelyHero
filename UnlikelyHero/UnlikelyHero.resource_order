@@ -53,6 +53,7 @@
     {"name":"snd_enemy_death","order":1,"path":"sounds/snd_enemy_death/snd_enemy_death.yy",},
     {"name":"spr_player_jump","order":2,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"obj_text","order":6,"path":"objects/obj_text/obj_text.yy",},
+    {"name":"fnt_dev","order":1,"path":"fonts/fnt_dev/fnt_dev.yy",},
     {"name":"spr_player_walk","order":3,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_enemy_green_static","order":4,"path":"sprites/spr_enemy_green_static/spr_enemy_green_static.yy",},
     {"name":"player_dmg","order":4,"path":"scripts/player_dmg/player_dmg.yy",},

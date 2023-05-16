@@ -1,0 +1,2 @@
+/// @desc var
+god = false;
