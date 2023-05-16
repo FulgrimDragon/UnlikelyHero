@@ -53,6 +53,7 @@
   },
   "resources": [
     {"id":{"name":"obj_bolt","path":"objects/obj_bolt/obj_bolt.yy",},},
+    {"id":{"name":"spr_points_green","path":"sprites/spr_points_green/spr_points_green.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"enemy_dmg","path":"scripts/enemy_dmg/enemy_dmg.yy",},},
     {"id":{"name":"spr_enemy_green","path":"sprites/spr_enemy_green/spr_enemy_green.yy",},},
@@ -88,6 +89,8 @@
     {"id":{"name":"snd_enemy_death","path":"sounds/snd_enemy_death/snd_enemy_death.yy",},},
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},},
     {"id":{"name":"spr_invis_wall","path":"sprites/spr_invis_wall/spr_invis_wall.yy",},},
+    {"id":{"name":"spr_points","path":"sprites/spr_points/spr_points.yy",},},
+    {"id":{"name":"spr_points_red","path":"sprites/spr_points_red/spr_points_red.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_enemy_green_static","path":"sprites/spr_enemy_green_static/spr_enemy_green_static.yy",},},
