@@ -68,6 +68,7 @@
     {"id":{"name":"sha_white","path":"shaders/sha_white/sha_white.yy",},},
     {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},},
     {"id":{"name":"spr_marker","path":"sprites/spr_marker/spr_marker.yy",},},
+    {"id":{"name":"obj_fast_enemy","path":"objects/obj_fast_enemy/obj_fast_enemy.yy",},},
     {"id":{"name":"spr_player_attack","path":"sprites/spr_player_attack/spr_player_attack.yy",},},
     {"id":{"name":"spr_player_attackHB","path":"sprites/spr_player_attackHB/spr_player_attackHB.yy",},},
     {"id":{"name":"spr_enemy_blue","path":"sprites/spr_enemy_blue/spr_enemy_blue.yy",},},
