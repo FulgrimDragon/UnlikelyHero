@@ -58,3 +58,21 @@ else
 if (hsp != 0) image_xscale = sign(hsp) * size;
 image_yscale = size;
 #endregion
+
+#region shooting
+if (shoots) 
+{
+	firing_delay = firing_delay - 1;
+
+	if(firing_delay < 0)
+	{
+		firing_delay = 120;
+		with (instance_create_layer(x,y,"Bullets",obj_slimeball))
+		{
+			spd = 20;
+			direction = other.image_angle + random_range(-5,5);
+			image_angle = direction;
+		}
+	}	
+}
+#endregion
