@@ -48,6 +48,7 @@
     {"name":"spr_enemy_blue_static","order":3,"path":"sprites/spr_enemy_blue_static/spr_enemy_blue_static.yy",},
     {"name":"obj_dev","order":3,"path":"objects/obj_dev/obj_dev.yy",},
     {"name":"slide_transition","order":2,"path":"scripts/slide_transition/slide_transition.yy",},
+    {"name":"obj_enemy_shooter","order":1,"path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},
     {"name":"obj_sign","order":2,"path":"objects/obj_sign/obj_sign.yy",},
     {"name":"spr_enemy_red_static","order":5,"path":"sprites/spr_enemy_red_static/spr_enemy_red_static.yy",},
     {"name":"obj_transition","order":5,"path":"objects/obj_transition/obj_transition.yy",},

@@ -83,6 +83,7 @@
     {"id":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},},
     {"id":{"name":"obj_dev","path":"objects/obj_dev/obj_dev.yy",},},
     {"id":{"name":"slide_transition","path":"scripts/slide_transition/slide_transition.yy",},},
+    {"id":{"name":"obj_enemy_shooter","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},},
     {"id":{"name":"player_state_idle","path":"scripts/player_state_idle/player_state_idle.yy",},},
     {"id":{"name":"obj_sign","path":"objects/obj_sign/obj_sign.yy",},},
     {"id":{"name":"obj_slimeball","path":"objects/obj_slimeball/obj_slimeball.yy",},},
