@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Ranged",
-    "path": "folders/Objects/Weapons/Ranged.yy",
+    "name": "Player",
+    "path": "folders/Objects/Entities/Weapons/Player.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bolt_ground",
+  "name": "obj_ranged_enemy",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objects/Entities/Weapons/Player.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Entities/Enemy.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_enemy",
+    "path": "objects/obj_enemy/obj_enemy.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,9 +29,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bolt",
-    "path": "sprites/spr_bolt/spr_bolt.yy",
+    "name": "spr_enemy_green",
+    "path": "sprites/spr_enemy_green/spr_enemy_green.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_enemy_green",
+    "path": "sprites/spr_enemy_green/spr_enemy_green.yy",
+  },
   "visible": true,
 }
