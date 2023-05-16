@@ -26,10 +26,11 @@
     {"name":"Sign","order":1,"path":"folders/Sprites/Entities/Sign.yy",},
     {"name":"Tile Sets","order":4,"path":"folders/Sprites/Tile Sets.yy",},
     {"name":"Weapons","order":3,"path":"folders/Sprites/Weapons.yy",},
-    {"name":"Ranged","order":1,"path":"folders/Sprites/Weapons/Ranged.yy",},
+    {"name":"Player","order":1,"path":"folders/Sprites/Weapons/Player.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Enemy","order":2,"path":"folders/Objects/Entities/Weapons/Enemy.yy",},
+    {"name":"Enemy","order":2,"path":"folders/Sprites/Weapons/Enemy.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bolt","order":1,"path":"objects/obj_bolt/obj_bolt.yy",},

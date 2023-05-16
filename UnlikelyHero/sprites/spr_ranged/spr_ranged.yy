@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Ranged",
-    "path": "folders/Sprites/Weapons/Ranged.yy",
+    "name": "Player",
+    "path": "folders/Sprites/Weapons/Player.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
