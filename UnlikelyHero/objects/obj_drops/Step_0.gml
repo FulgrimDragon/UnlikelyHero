@@ -1,2 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @desc add points
+if (instance_exists(obj_player))
+{
+	global.points++;
+	global.points_room++;
+}
