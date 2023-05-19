@@ -4,6 +4,6 @@ if (hp <= 0)
 	//add drops
 	audio_sound_pitch(snd_enemy_death,choose(0.9,1.0,1.1));
 	audio_play_sound(snd_enemy_death,9,false);
-	with (my_gun) instance_destroy();
+	if(shoots) with (my_gun) instance_destroy();
 	instance_destroy();
 }
