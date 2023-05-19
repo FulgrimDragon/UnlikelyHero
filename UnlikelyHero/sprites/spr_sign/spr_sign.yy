@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sign",
-    "path": "folders/Sprites/Entities/Sign.yy",
+    "name": "Other",
+    "path": "folders/Sprites/Entities/Other.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
