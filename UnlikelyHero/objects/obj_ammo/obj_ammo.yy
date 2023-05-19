@@ -1,12 +1,14 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_drops",
+  "name": "obj_ammo",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"par_points","path":"objects/par_points/par_points.yy",},"propertyId":{"name":"sprite","path":"objects/par_points/par_points.yy",},"value":"spr_arrow_pickup",},
+  ],
   "parent": {
     "name": "Other",
     "path": "folders/Objects/Entities/Other.yy",
@@ -30,7 +32,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_arrow_pickup",
+    "path": "sprites/spr_arrow_pickup/spr_arrow_pickup.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

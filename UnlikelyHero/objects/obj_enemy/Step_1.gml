@@ -9,5 +9,6 @@ if (hp <= 0)
 	{
 		sprite : enemy_drops(sprite_run)
 	});
+	if (irandom(drop_rate) == 0) instance_create_layer(x,y,"Player",obj_ammo);
 	instance_destroy();
 }

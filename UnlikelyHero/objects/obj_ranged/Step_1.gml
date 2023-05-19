@@ -31,7 +31,7 @@ else
 
 firing_delay = firing_delay - 1;
 
-if (mouse_check_button(mb_left)) && (firing_delay < 0)
+if (mouse_check_button(mb_left)) && (firing_delay < 0) && (global.ammo >= 1)
 {
 	recoil = 16;
 	firing_delay = 30;
@@ -42,6 +42,7 @@ if (mouse_check_button(mb_left)) && (firing_delay < 0)
 		direction = other.image_angle + random_range(-3,3);
 		image_angle = direction;
 	}
+	global.ammo--;
 	
 	with(obj_player)
 	{
