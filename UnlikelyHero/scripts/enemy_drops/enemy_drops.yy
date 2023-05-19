@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "enemy_drop",
+  "name": "enemy_drops",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
