@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_slimeball",
-    "path": "sprites/spr_slimeball/spr_slimeball.yy",
+    "name": "spr_slimeball_old",
+    "path": "sprites/spr_slimeball_old/spr_slimeball_old.yy",
   },
   "spriteMaskId": null,
   "visible": true,
