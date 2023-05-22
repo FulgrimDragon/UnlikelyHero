@@ -55,34 +55,9 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 	put in functions for each option in respected case
 	*/
 	switch (menu_committed)
-	{
-		case 3: 
-			//load game file when save system in
-			if (!file_exists(SAVEFILE))
-			{
-				slide_transition(TRANS_MODE.GOTO,rm_dev); //TEMP ROOM
-			}
-			else
-			{
-				var _file = file_text_open_read(SAVEFILE);
-				var _target = file_text_read_real(_file);
-				global.points = file_text_read_real(_file);
-				global.ammo = file_text_read_real(_file);
-				file_text_close(_file);
-				slide_transition(TRANS_MODE.GOTO,_target);
-			}
-			break;
-		case 2: 
-			//load first level or intro
-			slide_transition(TRANS_MODE.GOTO,rm_dev); //TEMP ROOM
-			break;	
-		case 1:
-			//got htp page when added
-			slide_transition(TRANS_MODE.GOTO,rm_htp); 
-			break;	
+	{	
 		case 0:
-			//exit game
-			game_end();
+			slide_transition(TRANS_MODE.GOTO,rm_menu);
 			break;
 	}
 }

@@ -109,6 +109,7 @@
     {"id":{"name":"fnt_dev","path":"fonts/fnt_dev/fnt_dev.yy",},},
     {"id":{"name":"spr_arrow_pickup","path":"sprites/spr_arrow_pickup/spr_arrow_pickup.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
+    {"id":{"name":"rm_htp","path":"rooms/rm_htp/rm_htp.yy",},},
     {"id":{"name":"spr_enemy_green_static","path":"sprites/spr_enemy_green_static/spr_enemy_green_static.yy",},},
     {"id":{"name":"bg_background1","path":"sprites/bg_background1/bg_background1.yy",},},
     {"id":{"name":"spr_ground_menu","path":"sprites/spr_ground_menu/spr_ground_menu.yy",},},
@@ -120,6 +121,7 @@
     {"id":{"name":"snd_player_attack3","path":"sounds/snd_player_attack3/snd_player_attack3.yy",},},
     {"id":{"name":"obj_drops","path":"objects/obj_drops/obj_drops.yy",},},
     {"id":{"name":"spr_grass_temp","path":"sprites/spr_grass_temp/spr_grass_temp.yy",},},
+    {"id":{"name":"obj_htp","path":"objects/obj_htp/obj_htp.yy",},},
     {"id":{"name":"snd_player_attack1","path":"sounds/snd_player_attack1/snd_player_attack1.yy",},},
     {"id":{"name":"snd_player_attack2","path":"sounds/snd_player_attack2/snd_player_attack2.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
@@ -130,6 +132,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_dev","path":"rooms/rm_dev/rm_dev.yy",},},
+    {"roomId":{"name":"rm_htp","path":"rooms/rm_htp/rm_htp.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
