@@ -24,13 +24,12 @@ camera_set_view_pos(cam,x-view_w_half,y-view_h_half);
 
 if (room != rm_menu) || (room != rm_htp)
 {
-	if (layer_exists(Foreground_2))
-	{
-		layer_x(Foreground_2,x/4);
-	}
 	if (layer_exists(Foreground))
 	{
 		layer_x(Foreground,x/6);
 	}
-
+	if (layer_exists(Foreground_2))
+	{
+		layer_x(Foreground_2,x/8);
+	}
 }
