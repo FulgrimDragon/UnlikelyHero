@@ -21,11 +21,16 @@ shake_remain = max(0,shake_remain-((1/shake_length)*shake_magnitude));
 camera_set_view_pos(cam,x-view_w_half,y-view_h_half);
 
 //paralax backgrounds
-/*
-if (room != room_menu)
+
+if (room != rm_menu) || (room != rm_htp)
 {
-	if (layer_exists(mountain_layer))
+	if (layer_exists(Foreground_2))
 	{
-		layer_x(mountain_layer,x/2);
+		layer_x(Foreground_2,x/4);
 	}
-*/
+	if (layer_exists(Foreground))
+	{
+		layer_x(Foreground,x/6);
+	}
+
+}

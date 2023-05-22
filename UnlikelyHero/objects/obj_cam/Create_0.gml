@@ -13,3 +13,5 @@ shake_magnitude = 0;
 shake_remain = 0;
 
 //layers
+Foreground = layer_get_id("Foreground");
+Foreground_2 = layer_get_id("Foreground_2");
