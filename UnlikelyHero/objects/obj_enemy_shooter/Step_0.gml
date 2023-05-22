@@ -15,7 +15,7 @@ if (instance_exists(obj_player))
 			{
 				with (instance_create_layer(x,y,"Bullets",obj_slimeball))
 				{
-					spd = 8;
+					spd = 5;
 					direction = other.image_angle + random_range(-5,5);
 					image_angle = direction;
 					image_xscale = abs(other.image_xscale);
