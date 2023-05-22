@@ -71,6 +71,7 @@
     {"id":{"name":"spr_slimeball","path":"sprites/spr_slimeball/spr_slimeball.yy",},},
     {"id":{"name":"par_menu","path":"objects/par_menu/par_menu.yy",},},
     {"id":{"name":"spr_slimequeen_static","path":"sprites/spr_slimequeen_static/spr_slimequeen_static.yy",},},
+    {"id":{"name":"rm_dev_2","path":"rooms/rm_dev_2/rm_dev_2.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_ranged_enemy","path":"objects/obj_ranged_enemy/obj_ranged_enemy.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -137,6 +138,7 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_dev","path":"rooms/rm_dev/rm_dev.yy",},},
     {"roomId":{"name":"rm_htp","path":"rooms/rm_htp/rm_htp.yy",},},
+    {"roomId":{"name":"rm_dev_2","path":"rooms/rm_dev_2/rm_dev_2.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
