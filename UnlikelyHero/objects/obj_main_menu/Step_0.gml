@@ -60,7 +60,7 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 			//load game file when save system in
 			if (!file_exists(SAVEFILE))
 			{
-				slide_transition(TRANS_MODE.GOTO,rm_dev); //TEMP ROOM
+				slide_transition(TRANS_MODE.GOTO,rm_lvl_1); 
 			}
 			else
 			{
@@ -74,7 +74,7 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 			break;
 		case 2: 
 			//load first level or intro
-			slide_transition(TRANS_MODE.GOTO,rm_dev); //TEMP ROOM
+			slide_transition(TRANS_MODE.GOTO,rm_lvl_1); 
 			break;	
 		case 1:
 			//got htp page when added
