@@ -8,3 +8,9 @@ display_set_gui_size(RES_W,RES_H);
 global.points = 0;
 global.points_room = 0;
 global.ammo = 5;
+
+//play game music
+if(audio_is_playing(msc_main) == false) 
+{
+		audio_play_sound(msc_main,4,true);
+}
