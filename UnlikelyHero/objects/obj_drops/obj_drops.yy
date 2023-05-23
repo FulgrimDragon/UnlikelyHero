@@ -12,8 +12,8 @@
     "path": "folders/Objects/Entities/Other.yy",
   },
   "parentObjectId": {
-    "name": "par_points",
-    "path": "objects/par_points/par_points.yy",
+    "name": "par_pickup",
+    "path": "objects/par_pickup/par_pickup.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

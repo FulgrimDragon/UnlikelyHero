@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_enemy_hurt.mp3",
   "type": 0,
-  "volume": 0.33,
+  "volume": 0.12,
 }

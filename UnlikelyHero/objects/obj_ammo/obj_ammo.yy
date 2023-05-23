@@ -7,15 +7,15 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"par_points","path":"objects/par_points/par_points.yy",},"propertyId":{"name":"sprite","path":"objects/par_points/par_points.yy",},"value":"spr_arrow_pickup",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"par_pickup","path":"objects/par_pickup/par_pickup.yy",},"propertyId":{"name":"sprite","path":"objects/par_pickup/par_pickup.yy",},"value":"spr_arrow_pickup",},
   ],
   "parent": {
     "name": "Other",
     "path": "folders/Objects/Entities/Other.yy",
   },
   "parentObjectId": {
-    "name": "par_points",
-    "path": "objects/par_points/par_points.yy",
+    "name": "par_pickup",
+    "path": "objects/par_pickup/par_pickup.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

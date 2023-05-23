@@ -39,6 +39,7 @@ if (mouse_check_button(mb_left)) && (firing_delay < 0) && (global.ammo >= 1)
 	{
 		spd = 25;
 		screen_shake(3,10);
+		audio_play_sound(snd_crossbow_shoot,5,false);
 		direction = other.image_angle + random_range(-3,3);
 		image_angle = direction;
 	}
