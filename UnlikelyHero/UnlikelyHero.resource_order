@@ -63,6 +63,7 @@
     {"name":"spr_player_attackHB","order":4,"path":"sprites/spr_player_attackHB/spr_player_attackHB.yy",},
     {"name":"enemy_drops","order":1,"path":"scripts/enemy_drops/enemy_drops.yy",},
     {"name":"animation_end","order":2,"path":"scripts/animation_end/animation_end.yy",},
+    {"name":"rm_credits","order":4,"path":"rooms/rm_credits/rm_credits.yy",},
     {"name":"spr_enemy_blue_static","order":3,"path":"sprites/spr_enemy_blue_static/spr_enemy_blue_static.yy",},
     {"name":"obj_dev","order":3,"path":"objects/obj_dev/obj_dev.yy",},
     {"name":"slide_transition","order":2,"path":"scripts/slide_transition/slide_transition.yy",},

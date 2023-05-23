@@ -56,7 +56,7 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 	*/
 	switch (menu_committed)
 	{
-		case 3: 
+		case 4: 
 			//load game file when save system in
 			if (!file_exists(SAVEFILE))
 			{
@@ -72,14 +72,17 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 				slide_transition(TRANS_MODE.GOTO,_target);
 			}
 			break;
-		case 2: 
+		case 3: 
 			//load first level or intro
 			slide_transition(TRANS_MODE.GOTO,rm_lvl_1); 
 			break;	
-		case 1:
-			//got htp page when added
+		case 2:
+			//goto htp 
 			slide_transition(TRANS_MODE.GOTO,rm_htp); 
 			break;	
+		case 1:
+			slide_transition(TRANS_MODE.GOTO,rm_credits);
+			break;
 		case 0:
 			//exit game
 			game_end();

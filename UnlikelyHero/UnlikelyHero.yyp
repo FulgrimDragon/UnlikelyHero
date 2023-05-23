@@ -95,6 +95,7 @@
     {"id":{"name":"enemy_drops","path":"scripts/enemy_drops/enemy_drops.yy",},},
     {"id":{"name":"animation_end","path":"scripts/animation_end/animation_end.yy",},},
     {"id":{"name":"screen_shake","path":"scripts/screen_shake/screen_shake.yy",},},
+    {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"id":{"name":"spr_enemy_blue_static","path":"sprites/spr_enemy_blue_static/spr_enemy_blue_static.yy",},},
     {"id":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},},
     {"id":{"name":"obj_dev","path":"objects/obj_dev/obj_dev.yy",},},
@@ -155,6 +156,7 @@
     {"roomId":{"name":"rm_lvl_1","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},},
     {"roomId":{"name":"rm_htp","path":"rooms/rm_htp/rm_htp.yy",},},
     {"roomId":{"name":"rm_lvl_2","path":"rooms/rm_lvl_2/rm_lvl_2.yy",},},
+    {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
