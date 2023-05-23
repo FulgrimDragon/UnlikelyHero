@@ -95,6 +95,7 @@
     {"name":"player_state_attack","order":1,"path":"scripts/player_state_attack/player_state_attack.yy",},
     {"name":"obj_event_end_lvl","order":7,"path":"objects/obj_event_end_lvl/obj_event_end_lvl.yy",},
     {"name":"snd_player_attack3","order":4,"path":"sounds/snd_player_attack3/snd_player_attack3.yy",},
+    {"name":"fnt_hud","order":2,"path":"fonts/fnt_hud/fnt_hud.yy",},
     {"name":"snd_enemy_hurt","order":5,"path":"sounds/snd_enemy_hurt/snd_enemy_hurt.yy",},
     {"name":"obj_drops","order":2,"path":"objects/obj_drops/obj_drops.yy",},
     {"name":"obj_htp","order":2,"path":"objects/obj_htp/obj_htp.yy",},
