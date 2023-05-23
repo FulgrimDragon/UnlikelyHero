@@ -87,6 +87,7 @@
     {"name":"player_dmg","order":4,"path":"scripts/player_dmg/player_dmg.yy",},
     {"name":"obj_main_menu","order":1,"path":"objects/obj_main_menu/obj_main_menu.yy",},
     {"name":"obj_cam","order":2,"path":"objects/obj_cam/obj_cam.yy",},
+    {"name":"spr_stone_menu","order":2,"path":"sprites/spr_stone_menu/spr_stone_menu.yy",},
     {"name":"spr_bolt","order":1,"path":"sprites/spr_bolt/spr_bolt.yy",},
     {"name":"player_state_attack","order":1,"path":"scripts/player_state_attack/player_state_attack.yy",},
     {"name":"obj_event_end_lvl","order":7,"path":"objects/obj_event_end_lvl/obj_event_end_lvl.yy",},
