@@ -84,6 +84,7 @@
     {"id":{"name":"spr_marker","path":"sprites/spr_marker/spr_marker.yy",},},
     {"id":{"name":"obj_fast_enemy","path":"objects/obj_fast_enemy/obj_fast_enemy.yy",},},
     {"id":{"name":"spr_player_attack","path":"sprites/spr_player_attack/spr_player_attack.yy",},},
+    {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},
     {"id":{"name":"spr_event","path":"sprites/spr_event/spr_event.yy",},},
     {"id":{"name":"spr_player_attackHB","path":"sprites/spr_player_attackHB/spr_player_attackHB.yy",},},
     {"id":{"name":"spr_enemy_blue","path":"sprites/spr_enemy_blue/spr_enemy_blue.yy",},},

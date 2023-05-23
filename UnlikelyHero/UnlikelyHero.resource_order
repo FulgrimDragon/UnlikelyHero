@@ -54,6 +54,7 @@
     {"name":"spr_marker","order":1,"path":"sprites/spr_marker/spr_marker.yy",},
     {"name":"obj_fast_enemy","order":1,"path":"objects/obj_fast_enemy/obj_fast_enemy.yy",},
     {"name":"spr_player_attack","order":1,"path":"sprites/spr_player_attack/spr_player_attack.yy",},
+    {"name":"snd_pickup","order":10,"path":"sounds/snd_pickup/snd_pickup.yy",},
     {"name":"spr_event","order":4,"path":"sprites/spr_event/spr_event.yy",},
     {"name":"spr_player_attackHB","order":4,"path":"sprites/spr_player_attackHB/spr_player_attackHB.yy",},
     {"name":"enemy_drops","order":1,"path":"scripts/enemy_drops/enemy_drops.yy",},
