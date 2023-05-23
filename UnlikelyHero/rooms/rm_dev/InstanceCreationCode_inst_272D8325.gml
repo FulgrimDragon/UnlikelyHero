@@ -1,0 +1,1 @@
+text = "Boy howdy, I\nhope there aren't\nany more slimes!";
