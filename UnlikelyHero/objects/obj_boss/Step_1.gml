@@ -10,7 +10,8 @@ if (hp <= 0)
 		with (my_gun_2) instance_destroy();
 		with (my_gun_3) instance_destroy();
 	}
+	audio_stop_sound(msc_boss);
 	instance_create_layer(x,y,"Player",obj_crown);
-	instance_create_layer(cam.x,cam.y,"
+	layer_sequence_create("Sequence",obj_cam.x,obj_cam.y,seq_whiteout);
 	instance_destroy();
 }
