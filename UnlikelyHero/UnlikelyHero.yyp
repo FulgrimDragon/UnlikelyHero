@@ -116,6 +116,7 @@
     {"id":{"name":"obj_slimeball","path":"objects/obj_slimeball/obj_slimeball.yy",},},
     {"id":{"name":"obj_boss_shooter","path":"objects/obj_boss_shooter/obj_boss_shooter.yy",},},
     {"id":{"name":"spr_enemy_red_static","path":"sprites/spr_enemy_red_static/spr_enemy_red_static.yy",},},
+    {"id":{"name":"rm_lvl_3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},},
     {"id":{"name":"spr_slimeball_boss","path":"sprites/spr_slimeball_boss/spr_slimeball_boss.yy",},},
     {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},},
     {"id":{"name":"player_movement_attack","path":"scripts/player_movement_attack/player_movement_attack.yy",},},
@@ -174,6 +175,7 @@
     {"roomId":{"name":"rm_end_scrn","path":"rooms/rm_end_scrn/rm_end_scrn.yy",},},
     {"roomId":{"name":"rm_htp","path":"rooms/rm_htp/rm_htp.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
+    {"roomId":{"name":"rm_lvl_3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
