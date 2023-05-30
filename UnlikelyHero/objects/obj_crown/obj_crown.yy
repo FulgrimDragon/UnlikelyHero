@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_crown",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"par_pickup","path":"objects/par_pickup/par_pickup.yy",},"propertyId":{"name":"sprite","path":"objects/par_pickup/par_pickup.yy",},"value":"spr_crown",},
+  ],
+  "parent": {
+    "name": "Other",
+    "path": "folders/Objects/Entities/Other.yy",
+  },
+  "parentObjectId": {
+    "name": "obj_drops",
+    "path": "objects/obj_drops/obj_drops.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_crown",
+    "path": "sprites/spr_crown/spr_crown.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
