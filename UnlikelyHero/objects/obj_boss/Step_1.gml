@@ -11,5 +11,6 @@ if (hp <= 0)
 		with (my_gun_3) instance_destroy();
 	}
 	instance_create_layer(x,y,"Player",obj_crown);
+	instance_create_layer(cam.x,cam.y,"
 	instance_destroy();
 }

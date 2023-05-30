@@ -109,6 +109,7 @@
     {"name":"fnt_hud","order":2,"path":"fonts/fnt_hud/fnt_hud.yy",},
     {"name":"snd_enemy_hurt","order":5,"path":"sounds/snd_enemy_hurt/snd_enemy_hurt.yy",},
     {"name":"obj_drops","order":2,"path":"objects/obj_drops/obj_drops.yy",},
+    {"name":"spr_whiteout","order":7,"path":"sprites/spr_whiteout/spr_whiteout.yy",},
     {"name":"obj_htp","order":2,"path":"objects/obj_htp/obj_htp.yy",},
     {"name":"snd_player_attack1","order":2,"path":"sounds/snd_player_attack1/snd_player_attack1.yy",},
     {"name":"snd_player_hurt1","order":7,"path":"sounds/snd_player_hurt1/snd_player_hurt1.yy",},
