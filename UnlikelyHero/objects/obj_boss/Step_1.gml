@@ -11,6 +11,10 @@ if (hp <= 0)
 		with (my_gun_3) instance_destroy();
 	}
 	audio_stop_sound(msc_boss);
+	if (instance_exists(obj_slimeball))
+	{
+		with(obj_slimeball) instance_destroy();
+	}
 	instance_create_layer(x,y,"Player",obj_crown);
 	layer_sequence_create("Sequence",obj_cam.x,obj_cam.y,seq_whiteout);
 	instance_destroy();
