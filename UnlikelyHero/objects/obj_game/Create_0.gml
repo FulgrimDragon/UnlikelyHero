@@ -10,6 +10,7 @@ global.points_room = 0;
 global.ammo = 5;
 
 //play game music
+audio_stop_all();
 if(audio_is_playing(msc_main) == false) 
 {
 		audio_play_sound(msc_main,4,true);

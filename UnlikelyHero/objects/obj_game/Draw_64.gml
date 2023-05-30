@@ -12,3 +12,4 @@ if (room != rm_menu) && (instance_exists(obj_player))
 	draw_set_text(c_white,fnt_hud,fa_right,fa_top);
 	draw_text_transformed(RES_W-10,110,"Ammo: " + string(global.ammo),1,1,0);
 }
+
