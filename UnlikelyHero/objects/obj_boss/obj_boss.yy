@@ -4,7 +4,11 @@
   "name": "obj_boss",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"propertyId":{"name":"sprite_still","path":"objects/obj_enemy/obj_enemy.yy",},"value":"spr_slimequeen_static",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"propertyId":{"name":"sprite_run","path":"objects/obj_enemy/obj_enemy.yy",},"value":"spr_slimequeen",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"propertyId":{"name":"size","path":"objects/obj_enemy/obj_enemy.yy",},"value":"20",},
+  ],
   "parent": {
     "name": "Enemy",
     "path": "folders/Objects/Entities/Enemy.yy",
