@@ -1,5 +1,6 @@
 /// @desc draw text
 var _halfw = w * 0.5;
+depth = 50;
 
 //draw box
 draw_set_color(c_black);
