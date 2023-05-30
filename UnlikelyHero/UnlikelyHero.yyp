@@ -63,6 +63,7 @@
     {"id":{"name":"spr_stone","path":"sprites/spr_stone/spr_stone.yy",},},
     {"id":{"name":"enemy_dmg","path":"scripts/enemy_dmg/enemy_dmg.yy",},},
     {"id":{"name":"spr_enemy_green","path":"sprites/spr_enemy_green/spr_enemy_green.yy",},},
+    {"id":{"name":"msc_boss","path":"sounds/msc_boss/msc_boss.yy",},},
     {"id":{"name":"spr_healthbar","path":"sprites/spr_healthbar/spr_healthbar.yy",},},
     {"id":{"name":"obj_bolt_ground","path":"objects/obj_bolt_ground/obj_bolt_ground.yy",},},
     {"id":{"name":"obj_ranged","path":"objects/obj_ranged/obj_ranged.yy",},},

@@ -41,6 +41,7 @@
     {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"spr_stone","order":1,"path":"sprites/spr_stone/spr_stone.yy",},
     {"name":"spr_enemy_green","order":2,"path":"sprites/spr_enemy_green/spr_enemy_green.yy",},
+    {"name":"msc_boss","order":12,"path":"sounds/msc_boss/msc_boss.yy",},
     {"name":"spr_healthbar","order":8,"path":"sprites/spr_healthbar/spr_healthbar.yy",},
     {"name":"obj_bolt_ground","order":2,"path":"objects/obj_bolt_ground/obj_bolt_ground.yy",},
     {"name":"spr_background_spike3","order":7,"path":"sprites/spr_background_spike3/spr_background_spike3.yy",},
