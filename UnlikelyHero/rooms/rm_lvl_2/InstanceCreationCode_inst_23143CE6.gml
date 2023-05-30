@@ -1,0 +1,1 @@
+text = "Watch out for the slime that spi-\n*the other half of the sign\nappears to melted by acidic slime*";
