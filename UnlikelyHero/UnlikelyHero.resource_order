@@ -109,6 +109,7 @@
     {"name":"spr_bolt","order":1,"path":"sprites/spr_bolt/spr_bolt.yy",},
     {"name":"player_state_attack","order":1,"path":"scripts/player_state_attack/player_state_attack.yy",},
     {"name":"obj_event_end_lvl","order":7,"path":"objects/obj_event_end_lvl/obj_event_end_lvl.yy",},
+    {"name":"spr_howto","order":9,"path":"sprites/spr_howto/spr_howto.yy",},
     {"name":"spr_ranged_cursor","order":3,"path":"sprites/spr_ranged_cursor/spr_ranged_cursor.yy",},
     {"name":"snd_player_attack3","order":4,"path":"sounds/snd_player_attack3/snd_player_attack3.yy",},
     {"name":"fnt_hud","order":2,"path":"fonts/fnt_hud/fnt_hud.yy",},

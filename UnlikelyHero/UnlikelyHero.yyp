@@ -151,6 +151,7 @@
     {"id":{"name":"spr_bolt","path":"sprites/spr_bolt/spr_bolt.yy",},},
     {"id":{"name":"player_state_attack","path":"scripts/player_state_attack/player_state_attack.yy",},},
     {"id":{"name":"obj_event_end_lvl","path":"objects/obj_event_end_lvl/obj_event_end_lvl.yy",},},
+    {"id":{"name":"spr_howto","path":"sprites/spr_howto/spr_howto.yy",},},
     {"id":{"name":"spr_ranged_cursor","path":"sprites/spr_ranged_cursor/spr_ranged_cursor.yy",},},
     {"id":{"name":"snd_player_attack3","path":"sounds/snd_player_attack3/snd_player_attack3.yy",},},
     {"id":{"name":"fnt_hud","path":"fonts/fnt_hud/fnt_hud.yy",},},
