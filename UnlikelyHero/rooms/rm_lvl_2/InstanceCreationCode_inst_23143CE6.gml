@@ -1,1 +1,1 @@
-text = "Watch out for the slime that spi-\n*the other half of the sign\nappears to melted by acidic slime*";
+text = "Watch out for the slime\n that spi- *the other half\n of the sign appears \nto melted by acidic slime*";

@@ -1,0 +1,1 @@
+text = "An ancient evil\nlies beyond this point...";
