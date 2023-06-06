@@ -7,7 +7,7 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy_shooter","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},"propertyId":{"name":"countdown_rate","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},"value":"180",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy_shooter","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},"propertyId":{"name":"countdown_rate","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},"value":"240",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy_shooter","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},"propertyId":{"name":"range","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},"value":"1000",},
   ],
   "parent": {

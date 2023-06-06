@@ -12,7 +12,7 @@
   "option_windows_display_cursor": true,
   "option_windows_display_name": "Unlikely Hero",
   "option_windows_enable_steam": false,
-  "option_windows_executable_name": "UnlikeyHero.exe",
+  "option_windows_executable_name": "UnlikeyHeroBeta.exe",
   "option_windows_icon": "icons/icon.ico",
   "option_windows_installer_finished": "${base_options_dir}/windows/installer/finished.bmp",
   "option_windows_installer_header": "${base_options_dir}/windows/installer/header.bmp",
@@ -29,6 +29,6 @@
   "option_windows_steam_use_alternative_launcher": false,
   "option_windows_texture_page": "2048x2048",
   "option_windows_use_splash": false,
-  "option_windows_version": "0.1.0.0",
+  "option_windows_version": "0.3.1.0",
   "option_windows_vsync": false,
 }
