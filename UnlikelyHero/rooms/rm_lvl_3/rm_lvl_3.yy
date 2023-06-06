@@ -69,11 +69,11 @@
     {"name":"inst_1E2B3768","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
     {"name":"inst_AF4DCB3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
     {"name":"inst_65DECFF0","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
-    {"name":"inst_28513958","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
     {"name":"inst_400D0C3C","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
     {"name":"inst_BE09E32","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
     {"name":"inst_37F821C5","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
     {"name":"inst_6297ABEF","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
+    {"name":"inst_28513958","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -115,7 +115,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_BE09E32","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ammo","path":"objects/obj_ammo/obj_ammo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_37F821C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ammo","path":"objects/obj_ammo/obj_ammo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6297ABEF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ammo","path":"objects/obj_ammo/obj_ammo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":352.0,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Stone","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":68,"SerialiseWidth":188,"TileCompressedData":[
 4,2063,2064,1294,1295,-184,0,4,1996,1997,1358,1359,-184,0,4,1999,2000,1294,1295,-184,0,4,2063,2064,1358,1359,-184,0,4,1996,1997,1294,1295,-184,0,4,1999,2000,1358,1359,-184,0,4,2063,2064,1294,1295,-184,0,4,1996,1997,1358,1359,-184,0,4,1999,2000,1294,1295,-184,0,4,2063,2064,1358,1359,-184,0,4,1996,1997,1294,1295,-184,0,4,1999,2000,1358,1359,-184,0,4,2063,2064,1294,1295,-184,0,4,1996,1997,1358,1359,-184,0,4,1999,2000,1294,1295,-184,0,4,2063,2064,1358,1359,-184,0,4,1996,1997,1294,1295,-184,0,4,1999,2000,1358,1359,-184,0,4,2063,2064,1294,1295,-184,0,4,1996,1997,1358,1359,-184,0,4,1999,2000,1294,1295,-140,0,8,729,730,1489,1486,1487,1491,720,721,-36,0,4,2063,2064,1358,1359,-140,0,8,793,794,1553,1550,1551,1555,784,785,-36,0,4,1996,1997,1294,1295,-140,0,8,1307,1308,2016,2017,
 2018,70,1294,1295,-36,0,4,1999,2000,1358,1359,-138,0,12,673,674,1371,1372,2080,2081,2082,134,1358,1359,648,649,-34,0,4,2063,2064,1294,1295,-74,0,26,729,730,1496,1497,1493,1494,1499,1500,1496,1497,1493,1494,1486,1487,1489,1491,1499,1500,1496,1497,1493,1494,1486,1487,720,721,-28,0,26,729,730,1496,1497,1493,1494,1486,1487,1489,1491,737,738,142,143,2144,2145,2146,198,1999,2000,712,713,1493,1494,720,721,-30,0,4,1996,1997,1358,1359,-74,0,26,793,794,1560,1561,1557,1558,1563,1564,1560,1561,1557,1558,1550,1551,1553,1555,1563,1564,1560,1561,1557,1558,1550,1551,784,785,-28,0,26,793,794,1560,1561,1557,1558,1550,1551,1553,1555,1553,1555,276,277,278,138,142,143,2063,2064,1550,1551,1557,1558,784,785,-30,0,4,1999,2000,1294,1295,-74,0,26,1307,1308,1992,1993,1994,1999,2000,1992,1993,1994,1992,1993,1994,1999,2000,1992,1993,1994,1999,2000,1993,1994,
