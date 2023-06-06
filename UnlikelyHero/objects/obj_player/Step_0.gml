@@ -14,3 +14,12 @@ switch (state)
 	case PLAYERSTATE.IDLE: player_state_idle(); break;
 	case PLAYERSTATE.ATTACK: player_state_attack(); break;		
 }
+
+
+#region//custom cursor
+if(ranged)
+{
+	cursor_sprite = spr_ranged_cursor;
+} 
+else cursor_sprite = spr_melee_cursor;
+#endregion

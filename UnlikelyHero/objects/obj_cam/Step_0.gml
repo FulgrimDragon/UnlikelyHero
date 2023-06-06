@@ -33,3 +33,4 @@ if (room != rm_menu) || (room != rm_htp)
 		layer_x(Foreground_2,x/8);
 	}
 }
+

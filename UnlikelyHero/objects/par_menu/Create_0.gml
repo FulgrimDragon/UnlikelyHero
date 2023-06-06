@@ -28,3 +28,7 @@ menu_items = array_length_1d(menu);
 menu_top = menu_y - ((menu_item_height * 1.5) * menu_items);
 
 menu_cursor = 0;
+
+//custom mouse cursor
+window_set_cursor(cr_none);
+cursor_sprite = spr_melee_cursor;
