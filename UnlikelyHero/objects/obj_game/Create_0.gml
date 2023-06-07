@@ -2,6 +2,7 @@
 #macro RES_W 960
 #macro RES_H 540
 #macro SAVEFILE "Save.sav"
+#macro VERSION "v0.3.2-dev"
 display_set_gui_size(RES_W,RES_H);
 
 //variables

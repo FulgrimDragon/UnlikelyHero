@@ -25,7 +25,7 @@ if (room == rm_end_scrn)
 if (room == rm_menu)
 {
 	draw_set_text(c_black,fnt_text,fa_left,fa_bottom);
-	draw_text_transformed(RES_H,0,"v0.3.2-beta",0.5,0.5,0);
-	draw_set_text(c_white,fnt_text,fa_center,fa_top);
-	draw_text_transformed(RES_H,0,"v0.3.2-beta",0.5,0.5,0);
+	draw_text_transformed(5,RES_H-5,VERSION,0.5,0.5,0);
+	draw_set_text(c_gray,fnt_text,fa_left,fa_bottom);
+	draw_text_transformed(5,RES_H-5,VERSION,0.5,0.5,0);
 }
