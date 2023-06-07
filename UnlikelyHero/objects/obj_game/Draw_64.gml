@@ -20,3 +20,12 @@ if (room == rm_end_scrn)
 	draw_set_text(c_white,fnt_text,fa_center,fa_top);
 	draw_text_transformed(RES_W/2,90,"You defeated the evil slime! \n and you scored " + string(global.points)+ " points!",1.5,1.5,0);
 }
+
+//draw game version
+if (room == rm_menu)
+{
+	draw_set_text(c_black,fnt_text,fa_left,fa_bottom);
+	draw_text_transformed(RES_H,0,"v0.3.2-beta",0.5,0.5,0);
+	draw_set_text(c_white,fnt_text,fa_center,fa_top);
+	draw_text_transformed(RES_H,0,"v0.3.2-beta",0.5,0.5,0);
+}
