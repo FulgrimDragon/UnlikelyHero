@@ -78,6 +78,7 @@
     {"name":"obj_enemy_shooter","order":1,"path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},
     {"name":"spr_undefined","order":6,"path":"sprites/spr_undefined/spr_undefined.yy",},
     {"name":"rm_lvl_end","order":5,"path":"rooms/rm_lvl_end/rm_lvl_end.yy",},
+    {"name":"spr_player_dance","order":5,"path":"sprites/spr_player_dance/spr_player_dance.yy",},
     {"name":"obj_boss_shooter","order":2,"path":"objects/obj_boss_shooter/obj_boss_shooter.yy",},
     {"name":"spr_enemy_red_static","order":5,"path":"sprites/spr_enemy_red_static/spr_enemy_red_static.yy",},
     {"name":"spr_slimeball_boss","order":2,"path":"sprites/spr_slimeball_boss/spr_slimeball_boss.yy",},

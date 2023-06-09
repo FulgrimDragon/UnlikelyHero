@@ -112,6 +112,7 @@
     {"id":{"name":"obj_enemy_shooter","path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},},
     {"id":{"name":"spr_undefined","path":"sprites/spr_undefined/spr_undefined.yy",},},
     {"id":{"name":"rm_lvl_end","path":"rooms/rm_lvl_end/rm_lvl_end.yy",},},
+    {"id":{"name":"spr_player_dance","path":"sprites/spr_player_dance/spr_player_dance.yy",},},
     {"id":{"name":"player_state_idle","path":"scripts/player_state_idle/player_state_idle.yy",},},
     {"id":{"name":"obj_sign","path":"objects/obj_sign/obj_sign.yy",},},
     {"id":{"name":"obj_slimeball","path":"objects/obj_slimeball/obj_slimeball.yy",},},
