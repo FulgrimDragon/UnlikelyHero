@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_player",
   "bbox_bottom": 60,
-  "bbox_left": 23,
+  "bbox_left": 22,
   "bbox_right": 41,
   "bbox_top": 19,
   "bboxMode": 2,
